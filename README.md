@@ -2,6 +2,6 @@
 
 I am a fullstack software developer. 
 
-I do frontend with `VueJs` and `Flutter`.
+I do frontend with `Vue.js` and `Flutter`.
 
-For the backend I'm a big fan of `Serverless` architecture. 
+For the backend I use `Node.js` and I'm a big fan of `Serverless` architecture. 
