@@ -3,7 +3,7 @@
 
 I write frontend with `Vue.js` and `Flutter`
 
-For the backend I use `Node.js` and I'm a big fan of `Serverless` architecture.
+I use `Node.js` for the backend and I'm a big fan of `Serverless` architecture.
 
 <br />
 
