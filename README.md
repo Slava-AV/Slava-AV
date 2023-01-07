@@ -1,4 +1,4 @@
-<h3 align="left" id="macropower-title">:wave: Hi, I'm Slava, fullstack software developer</h3>
+<h2 align="left" id="macropower-title">:wave: Hi, I'm Slava, fullstack software developer</h2>
 <br />
 
 I write frontend with `Vue.js` and `Flutter`
@@ -29,20 +29,21 @@ I use `Node.js` for the backend and I'm a big fan of `Serverless` architecture.
 
 >### Some of my projects
 
-#### SaveMenu - "Shopify for restaurants"
-<img src="/img/savemenu_demo.gif">
+### SaveMenu - "Shopify for restaurants"
+<img src="/img/savemenu_demo.gif" style="width:188px;">
+
 Features: web menu builder, food ordering flow, payment integrations, statistics digest</br>
 Stack: `VueJS, NuxtJS, AWS Lambda\Lambda Edge, NodeJS, DynamoDB`</br>
 More info in the [repo](https://github.com/Slava-AV/savemenu)
 <br /><br />
 
-#### Explify - native app to scan books and make summary of the text
+### Explify - native app to scan books and make summary of the text
 Features: text recognition and formatting, summarization, relevant image search</br>
 Stack: `Flutter, NodeJS, Google Cloud Platform, GPT-3, Codemagic, RevenueCat`</br>
 [Code](https://github.com/Slava-AV/explify)
 <br /><br />
 
-#### GleamProBot - Telegram bot for new Web3 events
+### GleamProBot - Telegram bot for new Web3 events
 Features: events parsing and enreachment, filter based alerts, bot onboarding flow, admin dashboard</br>
 Stack: `AWS Lambda, NodeJS, NuxtJS for admin dashboard`</br>
 [Code](https://github.com/Slava-AV/gleamprobot)
