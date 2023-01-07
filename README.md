@@ -41,11 +41,11 @@ More info in the [repo](https://github.com/Slava-AV/savemenu)
 ### Explify - native app to scan books and make summary of the text
 Features: text recognition and formatting, summarization, relevant image search</br>
 Stack: `Flutter, NodeJS, Google Cloud Platform, GPT-3, Codemagic, RevenueCat`</br>
-[Code](https://github.com/Slava-AV/explify)
+More info in the [repo](https://github.com/Slava-AV/explify)
 <br /><br />
-<!-- 
+
 ### GleamProBot - Telegram bot for new Web3 events
 Features: events parsing and enreachment, filter based alerts, bot onboarding flow, admin dashboard</br>
 Stack: `AWS Lambda, NodeJS, NuxtJS for admin dashboard`</br>
-[Code](https://github.com/Slava-AV/gleamprobot)
-<br /><br /> -->
+(repo is coming soon)
+<br /><br />
