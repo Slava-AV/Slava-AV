@@ -30,9 +30,10 @@ I use `Node.js` for the backend and I'm a big fan of `Serverless` architecture.
 >### Some of my projects
 
 #### SaveMenu - "Shopify for restaurants"
+<img src="/img/savemenu_demo.gif">
 Features: web menu builder, food ordering flow, payment integrations, statistics digest</br>
 Stack: `VueJS, NuxtJS, AWS Lambda\Lambda Edge, NodeJS, DynamoDB`</br>
-[Code](https://github.com/Slava-AV/savemenu)
+More info in the [repo](https://github.com/Slava-AV/savemenu)
 <br /><br />
 
 #### Explify - native app to scan books and make summary of the text
