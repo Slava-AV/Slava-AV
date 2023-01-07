@@ -20,10 +20,11 @@ I use `Node.js` for the backend and I'm a big fan of `Serverless` architecture.
   </tr>
   <tr>
     <td style="text-align: center;"><img src="/img/lambda.png" alt="AWS Lambda icon" width="32" height="32" /> AWS Lambda</td>
-    <td style="text-align: center;"><img src="/img/serverless.png" alt="AWS Lambda icon" width="32" height="32" /> serverless</td>
+    <td style="text-align: center;"><img src="/img/serverless.png" alt="AWS Lambda icon" width="32" height="32" /> Serverless</td>
     <td style="text-align: center;"><img src="/img/dynamodb.png" alt="DynamoDB icon" width="32" height="32" /> DynamoDB</td>
     <td style="text-align: center;"><img src="/img/mongo.webp" alt="MongoDB icon" width="32" height="32" /> MongoDB</td>
-    <td style="text-align: center;"><img src="/img/gpt-3.webp" alt="GPT-3" width="32" height="32" /> GPT-3</td>
+    <td style="text-align: center;"><img src="/img/gpt-3.webp" alt="GPT-3 icon" width="32" height="32" /> GPT-3</td>
+    <td style="text-align: center;"><img src="/img/sentry.png" alt="Sentry icon" width="32" height="32" /> Sentry</td>
   </tr>
 </table>
 <br />
