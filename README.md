@@ -16,13 +16,14 @@ I use `Node.js` for the backend and I'm a big fan of `Serverless` architecture.
     <td style="text-align: center;"><img src="/img/nuxt.png" alt="NuxtJS icon" width="32" height="32" /> NuxtJS</td>
     <td style="text-align: center;"><img src="/img/nodejs.jpg" alt="NodeJS icon" width="32" height="32" /> NodeJS</td>
     <td style="text-align: center;"><img src="/img/flutter.png" alt="Flutter icon" width="32" height="32" /> Flutter</td>
+    <td style="text-align: center;"><img src="/img/mixpanel.png" alt="Mixpanel icon" width="32" height="32" /> Mixpanel</td>
   </tr>
   <tr>
     <td style="text-align: center;"><img src="/img/lambda.png" alt="AWS Lambda icon" width="32" height="32" /> AWS Lambda</td>
     <td style="text-align: center;"><img src="/img/serverless.png" alt="AWS Lambda icon" width="32" height="32" /> serverless</td>
     <td style="text-align: center;"><img src="/img/dynamodb.png" alt="DynamoDB icon" width="32" height="32" /> DynamoDB</td>
     <td style="text-align: center;"><img src="/img/mongo.webp" alt="MongoDB icon" width="32" height="32" /> MongoDB</td>
-    <td style="text-align: center;"><img src="/img/google-cloud-platform.png" alt="Google Cloud Platform icon" width="32" height="32" /> Google Cloud Platform</td>
+    <td style="text-align: center;"><img src="/img/gpt-3.webp" alt="GPT-3" width="32" height="32" /> GPT-3</td>
   </tr>
 </table>
 <br />
@@ -42,9 +43,9 @@ Features: text recognition and formatting, summarization, relevant image search<
 Stack: `Flutter, NodeJS, Google Cloud Platform, GPT-3, Codemagic, RevenueCat`</br>
 [Code](https://github.com/Slava-AV/explify)
 <br /><br />
-
+<!-- 
 ### GleamProBot - Telegram bot for new Web3 events
 Features: events parsing and enreachment, filter based alerts, bot onboarding flow, admin dashboard</br>
 Stack: `AWS Lambda, NodeJS, NuxtJS for admin dashboard`</br>
 [Code](https://github.com/Slava-AV/gleamprobot)
-<br /><br />
+<br /><br /> -->
