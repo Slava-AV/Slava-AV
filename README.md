@@ -31,7 +31,9 @@ I use `Node.js` for the backend and I'm a big fan of `Serverless` architecture.
 
 >### Some of my projects
 
-### SaveMenu - "Shopify for restaurants"
+### SaveMenu
+"Shopify for restaurants". SaaS to create digital menu and process orders
+
 <img src="/img/savemenu_demo.gif" style="width:188px;">
 
 Features: web menu builder, food ordering flow, payment integrations, statistics digest</br>
@@ -39,7 +41,9 @@ Stack: `VueJS, NuxtJS, AWS Lambda\Lambda Edge, NodeJS, DynamoDB`</br>
 More info in the [repo](https://github.com/Slava-AV/savemenu)
 <br /><br />
 
-### Explify - native app to scan books and make summary of the text
+### Explify
+Mobile app (IOS\Android) to scan books and get summarised notes
+
 <img src="/img/explify.jpg" style="width:188px;">
 
 Features: text recognition and formatting, summarization, relevant image search</br>
@@ -47,10 +51,15 @@ Stack: `Flutter, NodeJS, Google Cloud Platform, GPT-3, Codemagic, RevenueCat`</b
 More info in the [repo](https://github.com/Slava-AV/explify)
 <br /><br />
 
-### GleamProBot - Telegram bot for new Web3 events
+### GleamProBot
+Telegram bot for new Web3 events
+
 <img src="/img/gleampro_bot.jpg" style="width:188px;">
 
-Features: events parsing and enreachment, filter based alerts, bot onboarding flow, admin dashboard</br>
+Features: events parsing and enreachment, filter based alerts, bot onboarding flow, admin dashboard and browser extension</br>
 Stack: `AWS Lambda, NodeJS, NuxtJS for admin dashboard`</br>
 More info in the [repo](https://github.com/Slava-AV/gleampro_bot)
 <br /><br />
+
+### Contacts
+You can reach me via [Telegram](https://t.me/astafieff) or [Email](mailto:astafieff@gmail.com)
